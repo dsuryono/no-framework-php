@@ -1,0 +1,14 @@
+{
+    "name": "suryono/no-framework-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "aris suryono",
+            "email": "aris.dwi.suryono@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.3",
+        "altorouter/altorouter": "^2.0"
+    }
+}
